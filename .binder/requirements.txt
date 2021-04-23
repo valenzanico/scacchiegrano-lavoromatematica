@@ -1,3 +1,4 @@
 ipywidgets
 matplotlib
 ipympl
+pandas
