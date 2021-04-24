@@ -3,9 +3,10 @@
 
 ### tipo di dati 
 - productions/supplies
+- price
 - area harvested
 - yield
-http://www.fao.org/waicent/faostat/agricult/pr_ele-e.htm
+spiegazione: http://www.fao.org/waicent/faostat/agricult/pr_ele-e.htm
 
 ### fonti productions
 
@@ -48,12 +49,10 @@ https://data.nber.org/databases/macrohistory/rectdata/04/docs/m04001a.txt
 2019-1961 - wheat-harvestedarea-FAOSTAT_data_4-21-2021.csv http://www.fao.org/faostat/en/#data
 
 
-### fonti che si possono usare
-https://search.usa.gov/
 
 
 
-### come funzioan il sito
+### come funziona il sito
 - server jupyter notebook contaneirizzato su docker
 - iframe in pagina html con url al server docker
 - prima riga codice nasconde barra tool e codice
