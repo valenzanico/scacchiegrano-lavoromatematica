@@ -1,4 +1,4 @@
-## progetto scacchi e grano
+## Progetto scacchi e grano
 
 
 ### tipo di dati 
