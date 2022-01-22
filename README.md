@@ -1,1 +1,0 @@
-# Scacchiegrano-lavoromatematica
